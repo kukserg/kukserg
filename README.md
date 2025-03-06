@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kukserg
-- 👀 I’m interested in WEB 3.0!
-- 🌱 I’m currently learning Swift, Python
-- 💞️ I’m looking to collaborate on dAPPS
-- 📫 Reach me at twitter @sirg_k 
+- 👀 Hopped on the AI Agent bandwagon 
+- 🌱 I talk to Grok.. alot 
 
 <!---
 kukserg/kukserg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
